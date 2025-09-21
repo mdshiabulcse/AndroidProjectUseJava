@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Unit Converter</string>
+    <string name="powered_by">Powered by Doctuch</string>
+    <string name="version">Version 1.1.1</string>
 </resources>
